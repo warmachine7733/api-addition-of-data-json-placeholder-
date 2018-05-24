@@ -1,4 +1,4 @@
-#adding an object of key-value(here id) in jsonPlaceholder fakeApi.
+#adding an object with key(here id) in jsonPlaceholder fakeApi.
 #---steps--#
 1.import the file in DOM render(react)
 2.render it as default page.
